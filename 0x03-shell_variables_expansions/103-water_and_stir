@@ -1,2 +1,2 @@
 #!/bin/bash
-printf '%bc%\n' '$(echo -c '${WATER} + ${STIR}')'
+printf "%bc%b\n" "$(echo -c "${WATER} + ${STIR}")"
